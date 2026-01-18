@@ -22,7 +22,7 @@ st.title("🛡️ PolicyGuard AI")
 st.markdown("### Enterprise Compliance & Intelligence Agent")
 
 # Define Backend URL
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://policyguard.onrender.com"
 
 # Initialize Session State
 if "analysis_result" not in st.session_state:
