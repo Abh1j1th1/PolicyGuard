@@ -4,7 +4,6 @@ python-multipart
 requests
 streamlit
 python-dotenv
-google-generativeai
 groq
 faiss-cpu>=1.8.0
 sentence-transformers
